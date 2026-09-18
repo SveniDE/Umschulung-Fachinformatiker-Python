@@ -1,0 +1,4 @@
+Das ist meine erste Textdatei.
+Hier stehen Zahlen (0123456789) 
+oder Buchstaben äöüÄÖÜß
+Das Ergebnis von 10/5 ist: 2.0
