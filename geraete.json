@@ -1,0 +1,14 @@
+[
+     {
+          "geraet": "Notebook",
+          "hersteller": "Dell",
+          "preis": 899.99,
+          "defekt": true
+     },
+     {
+          "geraet": "Desktop",
+          "hersteller": "hp",
+          "preis": 399.99,
+          "defekt": true
+     }
+]

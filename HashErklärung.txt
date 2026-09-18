@@ -1,0 +1,22 @@
+Bitte überweisen Sie 10000 EUR
+ 
+189f 8fff 2271 fe25  (Hashwert 64 Bit)
+ 
+1. Gleicher Eingabetext --> Gleicher Hashwert
+2. Änderung in der EIngabe --> (Große) Änderung im Hashwert
+3. Keine Berechnung des Eingabewerts möglich
+4. Es soll unwahrscheinlich sein, das 2 verschiedene Eingaben den selben Hashwert ergeben
+ 
+SHA-256 (Secure Hash Algorithm) ist ein sehr gängiger Hash-Algorithmus
+ 
+Anwendungsfälle:
+Abspeichern von Passwörter
+Prüfsummen für Dateien oder Datenpakete
+Bitcoin Mining
+Digitalen Signaturen
+ 
+Eingabe:  Hallo
+SHA-256:  185f8db32271fe25f561a6fc938b2e264306ec304eda518007d1764826381969
+ 
+Eingabe:  Holla
+SHA-256:  09aab1bf0492c2f2d9d06189e884ad01c2a2cf5b7e29c5072515dbafa1393e34

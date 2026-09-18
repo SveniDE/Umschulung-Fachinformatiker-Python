@@ -1,0 +1,4 @@
+do = open("test1.txt","r",encoding="utf-8")
+for z in do:
+    print(z,end="")
+do.close()
